@@ -1,0 +1,4 @@
+pack.name=Lucky Kingdoms
+pack.description=Lucky Kingdoms
+tile.lucky_kingdoms:lootbox.name=Lootbox
+tile.lucky_kingdoms:powerup_box.name=Powerup Lootbox

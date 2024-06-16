@@ -1,0 +1,11 @@
+{
+	"format_version": [1, 1, 0],
+	"lucky_kingdoms:lootbox": {
+		"sound": "wood",
+		"textures": "lucky_kingdoms_lootbox"
+	},
+	"lucky_kingdoms:powerup_box": {
+		"sound": "metal",
+		"textures": "lucky_kingdoms_powerup_box"
+	}
+}

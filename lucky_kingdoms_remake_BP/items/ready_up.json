@@ -1,0 +1,16 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:item": {
+        "description": {
+            "identifier": "lucky_kingdoms:ready_up"
+        },
+        "components": {
+            "minecraft:icon": {
+                "texture": "ready_up"
+            },
+            "minecraft:display_name": {
+                "value": "§aReady Up\n§7§o(Interact)"
+            }
+        }
+    }
+}

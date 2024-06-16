@@ -1,0 +1,17 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Lucky Kingdoms Resource Pack",
+		"description": "Resource pack for Lucky Kingdoms",
+		"uuid": "7821e088-9fc0-48b4-a623-8af4b0f1dac5",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "236b5f80-ca8b-4301-9489-a0108d239fd5",
+			"version": [1, 0, 0]
+		}
+	]
+}

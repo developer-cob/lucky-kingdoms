@@ -1,0 +1,14 @@
+{
+	"num_mip_levels": 4,
+	"padding": 8,
+	"resource_pack_name": "Lucky Kingdoms Resource Pack",
+	"texture_name": "atlas.terrain",
+	"texture_data": {
+		"lucky_kingdoms_lootbox": {
+			"textures": "textures/blocks/box"
+		},
+		"lucky_kingdoms_powerup_box": {
+			"textures": "textures/blocks/powerup_box"
+		}
+	}
+}
