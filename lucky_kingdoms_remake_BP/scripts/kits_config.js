@@ -165,7 +165,7 @@ export const classKits = {
       boots: "diamond_boots",
     },
     items: {
-      sword: "diamond_sword"
+      sword: "diamond_sword",
     },
     enchants: {
       helmet: [["protection", 3]],
@@ -214,11 +214,9 @@ export const defaultTools = {
 };
 
 export const defaultEnchants = {
-  tools: [
-    ["vanishing", 1],
-  ],
+  tools: [["vanishing", 1]],
   armor: [
     ["binding", 1],
-    ["vanishing", 1]
-  ]
-}
+    ["vanishing", 1],
+  ],
+};

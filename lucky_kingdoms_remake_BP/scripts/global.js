@@ -1,5 +1,4 @@
-
-//configureable with !config
+//configurable with !config
 export let config = {
   setStartTime: 15,
   minRequiredPlayers: 2,

@@ -170,7 +170,7 @@ world.beforeEvents.chatSend.subscribe((event) => {
   if (!event.sender.hasTag("developer")) return;
   if (event.message.charAt(0) == "!") {
     const commandArgs = event.message.split(" ");
-    switch (commandArgs[0]) {
+    switch (commandArgs[0].toLowerCase()) {
       case "!help":
         event.cancel = true;
         if (commandArgs[1] == "list") {
