@@ -1,9 +1,0 @@
-{
-	"resource_pack_name": "Lucky Kingdoms Resource Pack",
-	"texture_name": "atlas.items",
-	"texture_data": {
-		"ready_up": {
-			"textures": "textures/items/goat_horn"
-		}
-	}
-}
