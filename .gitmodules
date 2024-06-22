@@ -1,0 +1,6 @@
+[submodule "lucky-kingdoms-rp"]
+	path = lucky-kingdoms-rp
+	url = https://github.com/developer-cob/lucky-kingdoms-rp
+[submodule "lucky-kingdoms-bp"]
+	path = lucky-kingdoms-bp
+	url = https://github.com/developer-cob/lucky-kingdoms-bp
